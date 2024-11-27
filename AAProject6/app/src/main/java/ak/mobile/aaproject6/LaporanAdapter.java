@@ -55,7 +55,7 @@ public class LaporanAdapter extends RecyclerView.Adapter {
         public void onClick(View view) {
             // Pass data to DetailFragment
             Bundle bundle = new Bundle();
-            bundle.putInt("pic", Integer.parseInt(lapor.getPic()));
+            bundle.putString("pic", lapor.getPic());
             bundle.putString("title", lapor.getTitle());
             bundle.putString("kategori", lapor.getKategori());
             bundle.putString("lokasi", lapor.getLokasi()); // Baru
