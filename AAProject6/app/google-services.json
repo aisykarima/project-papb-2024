@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245788324091",
+    "project_id": "aaproj6-bc760",
+    "storage_bucket": "aaproj6-bc760.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245788324091:android:d3ce75338da899f830405e",
+        "android_client_info": {
+          "package_name": "ak.mobile.aaproject6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhksGCdITCf_nmcAv3PYEdWB2lUhZbolg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
