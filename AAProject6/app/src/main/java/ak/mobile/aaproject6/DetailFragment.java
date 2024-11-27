@@ -29,7 +29,8 @@ public class DetailFragment extends Fragment {
         Bundle args = getArguments();
         if (args != null) {
             String imageName = args.getString("pic");
-            int imageResId = getContext().getResources().getIdentifier(imageName, "drawable", getContext().getPackageName());
+            int imageResId = getContext().getResources().getIdentifier(imageName, 
+                    "drawable", getContext().getPackageName());
             pic.setImageResource(imageResId);
             
             title.setText(args.getString("title"));
