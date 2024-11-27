@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "21277408449",
+    "firebase_url": "https://lapor-bcf5a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lapor-bcf5a",
+    "storage_bucket": "lapor-bcf5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21277408449:android:6b5d78d688242d81a76840",
+        "android_client_info": {
+          "package_name": "com.example.laporapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6rREawmhLga5qDmBIcomB-diP1jwIRws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
