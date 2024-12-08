@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359636817656",
+    "project_id": "aduinaja-8596f",
+    "storage_bucket": "aduinaja-8596f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359636817656:android:654cc8e26b0c8f2f2a4d0d",
+        "android_client_info": {
+          "package_name": "ak.mobile.aduinajafinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6OLPOKQPbHIDu2RoSJUK48241kqtYMYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
